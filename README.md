@@ -1,4 +1,4 @@
-# LuGuanModv1 - 撸管模拟器 Mod
+# LuGuanModv1 - 鹿管模拟器 Mod
 
 这是一个为《逃离鸭科夫》制作的整活 Mod。
 
